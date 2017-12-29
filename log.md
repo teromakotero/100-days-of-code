@@ -12,14 +12,23 @@
 
 ### Day 1: December 29, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with python and csv-file. Tried first with dictionaries, but with lists inside lists it was easier.
 
-**Thoughts**: 
+**Thoughts**: Dictionaries are very good, but not in every case. 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://gist.github.com/teromakotero/1dba18b38794e04eb089051cd36ff7fb
 
 
 ### Day 2: December 30, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link to work**
+
+
+### Day 3: December 31, 2017
 
 **Today's Progress**: 
 

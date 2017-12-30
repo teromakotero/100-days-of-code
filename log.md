@@ -21,11 +21,11 @@
 
 ### Day 2: December 30, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with python and csv-file. Trying to sum results. My code has still problems.
 
-**Thoughts** 
+**Thoughts**: I have to learn more. 
 
-**Link to work**
+**Link to work**: https://gist.github.com/teromakotero/c26179277dd362a6d57fb5cd4f83227d
 
 
 ### Day 3: December 31, 2017

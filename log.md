@@ -30,8 +30,35 @@
 
 ### Day 3: December 31, 2017
 
+**Today's Progress**: Practicing data mining with python and csv-file. Now the code is functioning.
+
+**Thoughts**: With dictionaries resolved final results correct.
+
+**Link to work**: https://gist.github.com/teromakotero/cf8b635d22feba2900c91f41543c6fc7
+
+
+### Day 4: January 1, 2018
+
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts**: 
 
-**Link to work**
+**Link to work**: 
+
+
+### Day 5: January 2, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 6: January 3, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 

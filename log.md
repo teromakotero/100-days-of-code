@@ -39,11 +39,13 @@
 
 ### Day 4: January 1, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with csv and python. Creating pie chart
 
-**Thoughts**: 
+**Thoughts**: I used Plotly first time.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/0ac9dac7994f14ab1402643f091049c1
+
+**Link to pie chart**: https://plot.ly/~teromakotero/0/
 
 
 ### Day 5: January 2, 2018

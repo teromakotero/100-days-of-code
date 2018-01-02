@@ -39,7 +39,7 @@
 
 ### Day 4: January 1, 2018
 
-**Today's Progress**: Practicing data mining with csv and python. Creating pie chart
+**Today's Progress**: Practicing data mining with csv and python. Creating pie chart.
 
 **Thoughts**: I used Plotly first time.
 
@@ -50,6 +50,17 @@
 
 ### Day 5: January 2, 2018
 
+**Today's Progress**: Practicing data mining with csv adn python. Creating bar chart.
+
+**Thoughts**: Today bar chart. I have to practice styling with bar charts.
+
+**Link to work**: https://gist.github.com/teromakotero/25a952bf6bc013438f3c333a9971dce0
+
+**Link to bar chart**: https://plot.ly/~teromakotero/2/
+
+
+### Day 6: January 3, 2018
+
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -57,7 +68,34 @@
 **Link to work**: 
 
 
-### Day 6: January 3, 2018
+### Day 7: January 4, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 8: January 5, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 9: January 6, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 10: January 7, 2018
 
 **Today's Progress**: 
 

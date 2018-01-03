@@ -50,7 +50,7 @@
 
 ### Day 5: January 2, 2018
 
-**Today's Progress**: Practicing data mining with csv adn python. Creating bar chart.
+**Today's Progress**: Practicing data mining with csv and python. Creating bar chart.
 
 **Thoughts**: Today bar chart. I have to practice styling with bar charts.
 
@@ -61,11 +61,11 @@
 
 ### Day 6: January 3, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with Excel->csv and python.
 
-**Thoughts**: 
+**Thoughts**: Have to use rU opening the csv-file to make it working.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/a3c99436ac5cc1612a333d3805ca1eeb
 
 
 ### Day 7: January 4, 2018

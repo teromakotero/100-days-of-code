@@ -70,11 +70,13 @@
 
 ### Day 7: January 4, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with Excel->csv and python with bar charts.
 
-**Thoughts**: 
+**Thoughts**: With Plotly it is quite easy to make charts.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/f038700e77387dbb7fb79cf0d976b845
+
+**Link to bar chart**: https://plot.ly/~teromakotero/4.embed
 
 
 ### Day 8: January 5, 2018

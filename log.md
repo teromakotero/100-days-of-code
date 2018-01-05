@@ -81,11 +81,13 @@
 
 ### Day 8: January 5, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with Excel-csv and python with relative bar charts.
 
-**Thoughts**: 
+**Thoughts**: I feel like I have learned something.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/ea0b112214e902b772fa8648d943e088
+
+**Link to bar chart**: https://plot.ly/~teromakotero/6
 
 
 ### Day 9: January 6, 2018

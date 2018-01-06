@@ -81,7 +81,7 @@
 
 ### Day 8: January 5, 2018
 
-**Today's Progress**: Practicing data mining with Excel-csv and python with relative bar charts.
+**Today's Progress**: Practicing data mining with Excel->csv and python with relative bar charts.
 
 **Thoughts**: I feel like I have learned something.
 
@@ -92,11 +92,13 @@
 
 ### Day 9: January 6, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with Excel->csv and python age bar chart.
 
-**Thoughts**: 
+**Thoughts**: I'm going to work this code to make other kind of analysis tomorrow with the same data.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/a9827e952928ef9dcd30e0e5fa4dd191
+
+**Link to bar chart**: https://plot.ly/~teromakotero/8.embed
 
 
 ### Day 10: January 7, 2018

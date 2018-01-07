@@ -103,8 +103,127 @@
 
 ### Day 10: January 7, 2018
 
+**Today's Progress**: Practicing data mining with Excel->csv and python age relative bar chart.
+
+**Thoughts**: Vim is fantastic in coding. It makes things easier and faster.
+
+**Link to work**: https://gist.github.com/teromakotero/1e1820dec7ef5890c7bf8c1823e69061
+
+**Link to bar chart**: https://plot.ly/~teromakotero/10
+
+
+### Day 11: January 8, 2018
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link to work**: 
+**Link to work**:
+
+
+### Day 12: January 9, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 13: January 10, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 14: January 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 15: January 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 16: January 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 17: January 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 18: January 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 19: January 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 20: January 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 21: January 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 23: January 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 24: January 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:

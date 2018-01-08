@@ -114,11 +114,13 @@
 
 ### Day 11: January 8, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with Excel->csv and python. Line chart.
 
-**Thoughts**: 
+**Thoughts**: Plotly is great to do this kind of charts.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/e30e25fdd50bc42ee7e9a27dc4ae7117
+
+**Link to chart**: https://plot.ly/~teromakotero/12/embed/
 
 
 ### Day 12: January 9, 2018

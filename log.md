@@ -125,11 +125,11 @@
 
 ### Day 12: January 9, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Little program to make subtraction exercises for first and second grades.
 
-**Thoughts**: 
+**Thoughts**: Programming can make teachers life easier and fun.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/8f0e59b9855f7b0a2e12f3edbe764f6a
 
 
 ### Day 13: January 10, 2018

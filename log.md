@@ -134,7 +134,7 @@
 
 ### Day 13: January 10, 2018
 
-**Today's Progress**: Program to make subtraction exercises and decide wich is smallest and biggest number.
+**Today's Progress**: Program to make subtraction exercises and decide which is smallest and biggest number.
 
 **Thoughts**: I'm using this in my teaching.
 

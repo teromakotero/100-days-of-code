@@ -134,11 +134,11 @@
 
 ### Day 13: January 10, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Program to make subtraction exercises and decide wich is smallest and biggest number.
 
-**Thoughts**: 
+**Thoughts**: I'm using this in my teaching.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/9dc2137ee942a77cca9750d96931f6c0
 
 
 ### Day 14: January 11, 2018

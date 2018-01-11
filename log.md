@@ -143,11 +143,13 @@
 
 ### Day 14: January 11, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing data mining with open data: csv and python.
 
-**Thoughts**: 
+**Thoughts**: There still much to learn. I will work more with this code.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/c25b6aa26a264c581e149ee2372b05d7
+
+**Link to data**: https://www.avoindata.fi/data/fi/dataset/espoon-lukioiden-yhteishaun-tulokset
 
 
 ### Day 15: January 12, 2018

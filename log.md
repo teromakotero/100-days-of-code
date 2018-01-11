@@ -145,7 +145,7 @@
 
 **Today's Progress**: Practicing data mining with open data: csv and python.
 
-**Thoughts**: There still much to learn. I will work more with this code.
+**Thoughts**: There is still much to learn. I will work more with this code.
 
 **Link to work**: https://gist.github.com/teromakotero/c25b6aa26a264c581e149ee2372b05d7
 

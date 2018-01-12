@@ -154,11 +154,11 @@
 
 ### Day 15: January 12, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Trying to resolve a problem with python. My code has problems.
 
-**Thoughts**: 
+**Thoughts**: I have lot to learn about recursion.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/7bc4fc371940b5f15dd3708f7979d8c7
 
 
 ### Day 16: January 13, 2018

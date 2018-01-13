@@ -163,11 +163,11 @@
 
 ### Day 16: January 13, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Resolving problem with python.
 
-**Thoughts**: 
+**Thoughts**: Still have to work with the code.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/0c1a31df8cc7b81d4579dcd882d98760
 
 
 ### Day 17: January 14, 2018

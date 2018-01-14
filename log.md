@@ -172,11 +172,11 @@
 
 ### Day 17: January 14, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing recursion to resolve a problem.
 
-**Thoughts**: 
+**Thoughts**: I have still so much to learn. Making mistakes is a good way to learn for me.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/7153431c6da688944d7b5c27e133df5d
 
 
 ### Day 18: January 15, 2018

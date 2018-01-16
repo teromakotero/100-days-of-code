@@ -190,11 +190,11 @@
 
 ### Day 19: January 16, 2018
 
-**Today's Progress**: 
+**Today's Progress**: New version of little program to make subtraction exercises for first and second grades.
 
-**Thoughts**: 
+**Thoughts**: I needed a new version for my work.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/e82a1acddd1882fb164b9835e5a6fa88
 
 
 ### Day 20: January 17, 2018

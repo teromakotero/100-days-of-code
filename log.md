@@ -199,11 +199,11 @@
 
 ### Day 20: January 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Trying to resove a problem with Python.
 
-**Thoughts**: 
+**Thoughts**: New way to resolve it. Still have to work on code.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/da27da8110583bc774a7e9baf5ebd059
 
 
 ### Day 21: January 18, 2018

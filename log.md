@@ -208,6 +208,24 @@
 
 ### Day 21: January 18, 2018
 
+**Today's Progress**: Still working with the same problem with Python.
+
+**Thoughts**: Have to try something new.
+
+**Link to work**: https://gist.github.com/teromakotero/82e57c5e622ba5a1e92c116add649a1a
+
+
+### Day 22: January 19, 2018
+
+**Today's Progress**: Still working with the same problem with Python.
+
+**Thoughts**: New idea.
+
+**Link to work**: https://gist.github.com/teromakotero/a34cc3c61f4b1d27623595da00165fd2
+
+
+### Day 23: January 20, 2018
+
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -215,7 +233,7 @@
 **Link to work**:
 
 
-### Day 23: January 19, 2018
+### Day 24: January 21, 2018
 
 **Today's Progress**: 
 
@@ -224,7 +242,61 @@
 **Link to work**:
 
 
-### Day 24: January 20, 2018
+### Day 25: January 22, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 26: January 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 27: January 24, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 28: January 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 29: January 26, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 30: January 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 31: January 28, 2018
 
 **Today's Progress**: 
 

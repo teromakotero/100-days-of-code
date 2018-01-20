@@ -226,11 +226,11 @@
 
 ### Day 23: January 20, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with micro:bit and Python.
 
-**Thoughts**: 
+**Thoughts**: Finding new ways to teach Python.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/b5516c66ee65a6d33e7d592350d62114
 
 
 ### Day 24: January 21, 2018

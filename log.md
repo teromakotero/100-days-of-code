@@ -235,11 +235,11 @@
 
 ### Day 24: January 21, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with micro:bit and Python. Clave with Piezo Buzzer.
 
-**Thoughts**: 
+**Thoughts**: Finding possibilities with micro:bit.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/a57a732517c75499893cc6122a54a1e8
 
 
 ### Day 25: January 22, 2018

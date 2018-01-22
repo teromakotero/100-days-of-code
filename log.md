@@ -244,11 +244,11 @@
 
 ### Day 25: January 22, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Making music with micro:bit and Python. El manisero.
 
-**Thoughts**: 
+**Thoughts**: Cood way to combine music and coding for schools.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/889afc4de84580b88b01015fe7bda117
 
 
 ### Day 26: January 23, 2018

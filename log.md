@@ -253,11 +253,11 @@
 
 ### Day 26: January 23, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Making micro:bit sing with Python.
 
-**Thoughts**: 
+**Thoughts**: This is crazy!
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/b236799dbdb2dd0dce2c5cfe808e81c0
 
 
 ### Day 27: January 24, 2018

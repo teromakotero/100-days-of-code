@@ -262,20 +262,20 @@
 
 ### Day 27: January 24, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with micro:bit and Python directly from the terminal (command line). 
 
-**Thoughts**: 
+**Thoughts**: uFlash is great!
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/42276579a13a580b45a40ec6bee58dcd
 
 
 ### Day 28: January 25, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python. 
 
-**Thoughts**: 
+**Thoughts**: Changing block-code to Python from Kitronik INVENTOR'S KIT
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/4b39b1e774c6ea4050a0b394a8e07574
 
 
 ### Day 29: January 26, 2018

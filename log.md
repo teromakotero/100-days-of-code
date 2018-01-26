@@ -280,11 +280,11 @@
 
 ### Day 29: January 26, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python.
 
-**Thoughts**: 
+**Thoughts**: Changing block-code to Python from Kitronik INVENTOR'S KIT. Today with motor.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/e6ebc85c12f75c22931d726ebbf23913
 
 
 ### Day 30: January 27, 2018

@@ -303,3 +303,177 @@
 **Thoughts**: 
 
 **Link to work**:
+
+
+### Day 32: January 29, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 33: January 30, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 34: January 31, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 35: February 1, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 36: February 2, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 37: February 3, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 38: February 4, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 39: February 5, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 40: February 6, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 41: February 7, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 42: February 8, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 43: February 9, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 44: February 10, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 45: February 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 46: February 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 47: February 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 48: February 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 49: February 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### February 16 - 24, 2018 on vacation
+
+
+### Day 50: February 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:

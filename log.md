@@ -298,11 +298,11 @@
 
 ### Day 31: January 28, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python.
 
-**Thoughts**: 
+**Thoughts**: Changing block-code to Python from Kitronik INVENTOR'S KIT. Today playing music with buzzer.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/60f29d1c0f59fc7231328c9516a8b6c7
 
 
 ### Day 32: January 29, 2018

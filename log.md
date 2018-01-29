@@ -307,9 +307,9 @@
 
 ### Day 32: January 29, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python.
 
-**Thoughts**: 
+**Thoughts**: Changing JavaScript to Python from Kitronik INVENTOR'S KIT. Today measuring the wind force.
 
 **Link to work**:
 

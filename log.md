@@ -311,7 +311,7 @@
 
 **Thoughts**: Changing JavaScript to Python from Kitronik INVENTOR'S KIT. Today measuring the wind force.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/1763a2465ad2892f930b40131c239e3a
 
 
 ### Day 33: January 30, 2018

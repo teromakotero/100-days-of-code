@@ -316,11 +316,11 @@
 
 ### Day 33: January 30, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python. Changing JavaScript to Python from Kitronik INVENTOR'S KIT. Compass game.
 
-**Thoughts**: 
+**Thoughts**: The code is much simpler with Python.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/0d024ad44ecd4768c0517b3b726ac67e
 
 
 ### Day 34: January 31, 2018

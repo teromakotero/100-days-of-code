@@ -325,11 +325,11 @@
 
 ### Day 34: January 31, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python. Changing JavaScript to Python from Kitronik INVENTOR'S KIT. Capacitor charge circuit.
 
-**Thoughts**: 
+**Thoughts**: The code was easier than I thought.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/532c08eae6155d28eec9f5ae440544d1
 
 
 ### Day 35: February 1, 2018

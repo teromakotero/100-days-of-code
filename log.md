@@ -334,11 +334,11 @@
 
 ### Day 35: February 1, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, terminal, micro:bit and Python. Changing JavaScript to Python from Kitronik INVENTOR'S KIT. Using an rgb led.
 
-**Thoughts**: 
+**Thoughts**: Little bit tricky to invent the cables order.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/3c304ea6c7d34c16332afcf25fb249da
 
 
 ### Day 36: February 2, 2018

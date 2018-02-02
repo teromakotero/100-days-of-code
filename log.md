@@ -343,7 +343,7 @@
 
 ### Day 36: February 2, 2018
 
-**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Changing Arduino code to Python from Arduino Geniuino Starter KIT. SPACESHIP INTERFACE.
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Changing Arduino code to Python from Arduino Genuino Starter KIT. SPACESHIP INTERFACE.
 
 **Thoughts**: The code is so much simpler with Python.
 

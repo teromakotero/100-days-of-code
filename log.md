@@ -352,11 +352,11 @@
 
 ### Day 37: February 3, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Changing Arduino code to Python from Arduino Genuino Starter KIT. LOVE-O-METER.
 
-**Thoughts**: 
+**Thoughts**: Some problems with sensors.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/17d3054a4691c83643d77ca4c5ae6afb
 
 
 ### Day 38: February 4, 2018

@@ -361,11 +361,11 @@
 
 ### Day 38: February 4, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Changing Arduino code to Python from Arduino Genuino Starter KIT. COLOR MIXING LAMP.
 
-**Thoughts**: 
+**Thoughts**: More thinking with what pins to use than the code.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/1a52aa7bd533fb5f141b39db465e3583
 
 
 ### Day 39: February 5, 2018

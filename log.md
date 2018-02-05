@@ -370,11 +370,11 @@
 
 ### Day 39: February 5, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Changing Arduino code to Python from Arduino Genuino Starter KIT. MOOD CUE.
 
-**Thoughts**: 
+**Thoughts**: Servo motor needed Servo class.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/86516dab6f7af28138be69aef85c1af6
 
 
 ### Day 40: February 6, 2018

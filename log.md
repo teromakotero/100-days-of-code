@@ -379,11 +379,11 @@
 
 ### Day 40: February 6, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Changing Arduino code to Python from Arduino Genuino Starter KIT. LIGHT THEREMIN.
 
-**Thoughts**: 
+**Thoughts**: Super easy variation. Could make it more complex.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/4ab4b576401a34fabc0a14670aab71d9
 
 
 ### Day 41: February 7, 2018

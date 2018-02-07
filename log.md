@@ -388,11 +388,11 @@
 
 ### Day 41: February 7, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Today I made a simple binary game only with micro:bit.
 
-**Thoughts**: 
+**Thoughts**: Maybe I will use it with pupils. I will give them only part of the code.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/56c290010d8a27ed7f82e2054ab1b775
 
 
 ### Day 42: February 8, 2018

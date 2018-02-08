@@ -397,11 +397,11 @@
 
 ### Day 42: February 8, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Today I made a simple keyboard with buttons.
 
-**Thoughts**: 
+**Thoughts**: Couldn't get fifth button to function.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/f01d3c30a7875d559348668ce5948dcd
 
 
 ### Day 43: February 9, 2018

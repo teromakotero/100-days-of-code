@@ -406,11 +406,11 @@
 
 ### Day 43: February 9, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some math exercises for first graders. It's with images and I used Python to help me organize.
 
-**Thoughts**: 
+**Thoughts**: Code was more complicated than I thought first.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/5fefae31d0c2f785be724b0171487bc6
 
 
 ### Day 44: February 10, 2018

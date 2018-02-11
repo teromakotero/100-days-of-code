@@ -424,11 +424,11 @@
 
 ### Day 45: February 11, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I tried a new way to convert binary numbers to decimal numbers with Python.
 
-**Thoughts**: 
+**Thoughts**: There are better ways to do it, but I wanted to try my idea.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/d49e0ef84b8775cc5b44347a4ed05729
 
 
 ### Day 46: February 12, 2018

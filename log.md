@@ -433,11 +433,11 @@
 
 ### Day 46: February 12, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Today I made a simple timer with 6 leds.
 
-**Thoughts**: 
+**Thoughts**: Spend some time to find out, which pins to use for leds.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/812e758c44ee49fe4c39383f7a75311f
 
 
 ### Day 47: February 13, 2018

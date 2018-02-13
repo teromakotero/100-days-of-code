@@ -442,11 +442,11 @@
 
 ### Day 47: February 13, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Today I tried to make LCD display to work.
 
-**Thoughts**: 
+**Thoughts**: Couldn't make it function. I was using Robotonics code: https://gist.github.com/Robotonics/13a4c5f3be4f977644ccb4a28d6374ce
 
-**Link to work**:
+**Link to work**: 
 
 
 ### Day 48: February 14, 2018

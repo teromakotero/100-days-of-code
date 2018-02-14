@@ -451,11 +451,11 @@
 
 ### Day 48: February 14, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some math exercises for first graders. It's with images and I used Python to help me organize.
 
-**Thoughts**: 
+**Thoughts**: Programming skills make my life easier.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/8d8ef813bdf40180ed0bee5b78ee14ec
 
 
 ### Day 49: February 15, 2018

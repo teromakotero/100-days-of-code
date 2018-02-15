@@ -460,11 +460,11 @@
 
 ### Day 49: February 15, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Playing with vim, uflash, micro:bit and Python. Today I made a shaking changing display.
 
-**Thoughts**: 
+**Thoughts**: This was nice, but I should do one with changing animations.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/8b210f5a2673c5a4250b8b70f8315150
 
 
 ### February 16 - 24, 2018 on vacation

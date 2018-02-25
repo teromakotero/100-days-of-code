@@ -472,8 +472,98 @@
 
 ### Day 50: February 25, 2018
 
+**Today's Progress**: Hilbert's curve with vim, python and turtle.
+
+**Thoughts**: With turtle graphics you can do many useful things.
+
+**Link to work**: https://gist.github.com/teromakotero/59889309c7f586a1364b07258a342cef
+
+
+### Day 51: February 26, 2018
+
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link to work**:
+**Link to work**: 
+
+
+### Day 52: February 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 53: February 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 54: March 1, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 55: March 2, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 56: March 3, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 57: March 4, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 58: March 5, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 59: March 6, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 60: March 7, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 

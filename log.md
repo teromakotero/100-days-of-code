@@ -481,11 +481,11 @@
 
 ### Day 51: February 26, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Practicing with fractals. Sierpinski Triangle.
 
-**Thoughts**: 
+**Thoughts**: I have to study this better.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/8baabe96b452ab924d86e54f32cd8ab1
 
 
 ### Day 52: February 27, 2018

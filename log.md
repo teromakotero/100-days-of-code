@@ -490,11 +490,11 @@
 
 ### Day 52: February 27, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Variation of Sierpinski Triangle.
 
-**Thoughts**: 
+**Thoughts**: It's quite beautiful.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/5e8ab8ebf01eeb2d73cf4e91868a40fe
 
 
 ### Day 53: February 28, 2018

@@ -508,11 +508,11 @@
 
 ### Day 54: March 4, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some more math exercises for first graders. It's with images and I used Python to help me organize.
 
-**Thoughts**: 
+**Thoughts**: Easy to make variations.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/e75a4ccb385a689a0ee8a746aac5f816
 
 
 ### Day 55: March 5, 2018

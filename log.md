@@ -497,7 +497,7 @@
 **Link to work**: https://gist.github.com/teromakotero/5e8ab8ebf01eeb2d73cf4e91868a40fe
 
 
-### Day 53: March 3, 2018
+### Day 53: March 2, 2018
 
 **Today's Progress**: Today I made some math exercises for first graders. It's with images and I used Python to help me organize.
 
@@ -506,7 +506,7 @@
 **Link to work**: https://gist.github.com/teromakotero/b569eb0e444e98c312e7e5ba686d1a37
 
 
-### Day 54: March 4, 2018
+### Day 54: March 3, 2018
 
 **Today's Progress**: Today I made some more math exercises for first graders. It's with images and I used Python to help me organize.
 
@@ -515,13 +515,13 @@
 **Link to work**: https://gist.github.com/teromakotero/e75a4ccb385a689a0ee8a746aac5f816
 
 
-### Day 55: March 5, 2018
+### Day 55: March 4, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some more math exercises for first graders. Decomposition.
 
-**Thoughts**: 
+**Thoughts**: Little bit more complex.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/aa199841f9d217cd11929bc504fd3459
 
 
 ### Day 56: March 6, 2018

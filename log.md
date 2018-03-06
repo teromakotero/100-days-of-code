@@ -526,11 +526,11 @@
 
 ### Day 56: March 6, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some more math exercises for first graders. How many.
 
-**Thoughts**: 
+**Thoughts**: Lot of code, but I made it fast.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/3a92dc0994f6464d15b41d361fc27fdf
 
 
 ### Day 57: March 7, 2018

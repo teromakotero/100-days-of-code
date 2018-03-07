@@ -535,11 +535,11 @@
 
 ### Day 57: March 7, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made this little funny game with Scratch.
 
-**Thoughts**: 
+**Thoughts**: Waiting for Scratch 3.0 to get rid of Flash.
 
-**Link to work**: 
+**Link to work**: https://scratch.mit.edu/projects/208410510/
 
 
 ### Day 58: March 8, 2018

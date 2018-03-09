@@ -544,11 +544,11 @@
 
 ### Day 58: March 8, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some more math exercises for first graders. Sequence.
 
-**Thoughts**: 
+**Thoughts**: Python is a useful tool for teacher.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/79e636675229e1787dbb484e8651e7d4
 
 
 ### Day 59: March 9, 2018

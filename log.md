@@ -553,6 +553,15 @@
 
 ### Day 59: March 9, 2018
 
+**Today's Progress**: Today I made some more math exercises for first graders.
+
+**Thoughts**: New variations with Python dictionaries.
+
+**Link to work**: https://gist.github.com/teromakotero/fb31e6947cfaad37b1756fd0cdd323db
+
+
+### Day 60: March 10, 2018
+
 **Today's Progress**: 
 
 **Thoughts**: 
@@ -560,7 +569,85 @@
 **Link to work**: 
 
 
-### Day 60: March 10, 2018
+### Day 61: March 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 62: March 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 63: March 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 64: March 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 65: March 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 66: March 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 67: March 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 68: March 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+
+### Day 69: March 19, 2018
 
 **Today's Progress**: 
 

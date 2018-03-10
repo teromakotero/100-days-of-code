@@ -562,11 +562,11 @@
 
 ### Day 60: March 10, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made some more math exercises for first graders: Comparison.
 
-**Thoughts**: 
+**Thoughts**: With Python it's easy to make and easy to use.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/7155f37abc9d12e9d7527ee380bff9d2
 
 
 ### Day 61: March 11, 2018

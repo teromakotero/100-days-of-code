@@ -571,11 +571,11 @@
 
 ### Day 61: March 11, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for first graders: Decomposition.
 
-**Thoughts**: 
+**Thoughts**: Easy to make variations with Python.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/0118fababb7277e1441c67b307ce7326
 
 
 ### Day 62: March 12, 2018

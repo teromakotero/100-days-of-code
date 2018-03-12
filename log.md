@@ -580,11 +580,11 @@
 
 ### Day 62: March 12, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for first graders: Statistics.
 
-**Thoughts**: 
+**Thoughts**: I use random module really much with Python.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/113d6e4b4d211320115e24857c581077
 
 
 

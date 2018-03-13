@@ -590,11 +590,11 @@
 
 ### Day 63: March 13, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for first graders: Euros.
 
-**Thoughts**: 
+**Thoughts**: Easy to make exercises with Python.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/c5ee3983a30965b7a8abc1acb1f903d6
 
 
 

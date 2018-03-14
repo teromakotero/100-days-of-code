@@ -600,11 +600,11 @@
 
 ### Day 64: March 14, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made math exercises for third graders: Revising.
 
-**Thoughts**: 
+**Thoughts**: Different kind of exercises with Python.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/fe691954863c98866b4faf9614f51aa0
 
 
 

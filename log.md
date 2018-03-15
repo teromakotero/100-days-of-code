@@ -610,11 +610,11 @@
 
 ### Day 65: March 15, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Today I made random number generator for options in math exercises.
 
-**Thoughts**: 
+**Thoughts**: Again using random with Python.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/4a52534000c92a5cd685284e21f44b0c
 
 
 

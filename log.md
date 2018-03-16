@@ -620,11 +620,11 @@
 
 ### Day 66: March 16, 2018
 
-**Today's Progress**: 
+**Today's Progress**: I made more math exercises for third graders: Revising.
 
-**Thoughts**: 
+**Thoughts**: Easy progression.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/9e8012369945b9397e8af89d64b388aa
 
 
 
@@ -648,6 +648,105 @@
 
 
 ### Day 69: March 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 70: March 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 71: March 21, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 72: March 22, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 73: March 23, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 74: March 24, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 75: March 25, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 76: March 26, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 77: March 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 78: March 28, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 79: March 29, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+
+### Day 80: March 30, 2018
 
 **Today's Progress**: 
 

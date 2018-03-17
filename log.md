@@ -630,11 +630,11 @@
 
 ### Day 67: March 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders.
 
-**Thoughts**: 
+**Thoughts**: Variations of the same theme.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/ef6820f4df00e3676c7639338034ba40
 
 
 ### Day 68: March 18, 2018

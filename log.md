@@ -639,11 +639,11 @@
 
 ### Day 68: March 18, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders: Addition.
 
-**Thoughts**: 
+**Thoughts**: Easy to make levels with Python.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/7447347f67dd0f4a7aff7673350e2c97
 
 
 

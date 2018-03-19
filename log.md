@@ -649,11 +649,11 @@
 
 ### Day 69: March 19, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders: Subtraction.
 
-**Thoughts**: 
+**Thoughts**: Nothing new under the sun.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/729d8688bfad04e72e067963afa33000
 
 
 ### Day 70: March 20, 2018

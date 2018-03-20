@@ -658,11 +658,11 @@
 
 ### Day 70: March 20, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for third graders with criteria.
 
-**Thoughts**: 
+**Thoughts**: Easy to find variation.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/12966ada5d622839f98dfed9da268586
 
 
 ### Day 71: March 21, 2018

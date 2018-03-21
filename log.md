@@ -667,11 +667,11 @@
 
 ### Day 71: March 21, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders: Addition.
 
-**Thoughts**: 
+**Thoughts**: New variation of the same thing.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/8fa610e5cc12e8fd7e992bc6588d58b1
 
 
 ### Day 72: March 22, 2018

@@ -685,11 +685,11 @@
 
 ### Day 73: March 23, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders with HTML code and Python.
 
-**Thoughts**: 
+**Thoughts**: Found and fixed some bugs of yesterdays code.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/8efb31c2cc433edea04280a039fa4e90
 
 
 ### Day 74: March 24, 2018

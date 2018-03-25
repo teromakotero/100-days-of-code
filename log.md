@@ -692,7 +692,16 @@
 **Link to work**: https://gist.github.com/teromakotero/8efb31c2cc433edea04280a039fa4e90
 
 
-### Day 74: March 24, 2018
+### Day 74: March 25, 2018
+
+**Today's Progress**: More math exercises for third graders with HTML code and Python. New variations of addition.
+
+**Thoughts**: Variations about the same theme.
+
+**Link to work**: https://gist.github.com/teromakotero/678eaeddd75f0a24f4996227745a8978
+
+
+### Day 75: March 26, 2018
 
 **Today's Progress**: 
 
@@ -701,7 +710,7 @@
 **Link to work**: 
 
 
-### Day 75: March 25, 2018
+### Day 76: March 27, 2018
 
 **Today's Progress**: 
 
@@ -710,7 +719,7 @@
 **Link to work**: 
 
 
-### Day 76: March 26, 2018
+### Day 77: March 28, 2018
 
 **Today's Progress**: 
 
@@ -719,7 +728,7 @@
 **Link to work**: 
 
 
-### Day 77: March 27, 2018
+### Day 78: March 29, 2018
 
 **Today's Progress**: 
 
@@ -728,25 +737,7 @@
 **Link to work**: 
 
 
-### Day 78: March 28, 2018
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link to work**: 
-
-
-### Day 79: March 29, 2018
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link to work**: 
-
-
-### Day 80: March 30, 2018
+### Day 79: March 30, 2018
 
 **Today's Progress**: 
 

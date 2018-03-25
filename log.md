@@ -744,3 +744,196 @@
 **Thoughts**: 
 
 **Link to work**: 
+
+
+### Day 80: March 31, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 81: April 1, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 82: April 2, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day 83: April 3, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 84: April 4, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 85: April 5, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day 86: April 6, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 87: April 7, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 88: April 8, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 89: April 9, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 90: April 10, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 91: April 11, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 92: April 12, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+
+### Day 93: April 13, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 94: April 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 95: April 15, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 96: April 16, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 97: April 17, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 98: April 18, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 99: April 19, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+
+
+### Day 100: April 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**:
+

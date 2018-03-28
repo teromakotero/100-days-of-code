@@ -721,11 +721,11 @@
 
 ### Day 77: March 28, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders with HTML code and Python. Subtraction.
 
-**Thoughts**: 
+**Thoughts**: Variations of yesterdays code.
 
-**Link to work**: 
+**Link to work**: https://gist.github.com/teromakotero/825a711308959e3614efd201e178a146
 
 
 ### Day 78: March 29, 2018

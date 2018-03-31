@@ -748,11 +748,11 @@
 
 ### Day 80: March 31, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders. Subtraction and addition.
 
-**Thoughts**: 
+**Thoughts**: Coding teacher.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/557ebf0b886047dc961724d4a1497aed
 
 
 ### Day 81: April 1, 2018

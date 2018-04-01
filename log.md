@@ -757,11 +757,11 @@
 
 ### Day 81: April 1, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders. Multiplication.
 
-**Thoughts**: 
+**Thoughts**: With Python and HTML.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/3c9738846f845a7b8786837bef1a13e8
 
 
 ### Day 82: April 2, 2018

@@ -766,11 +766,11 @@
 
 ### Day 82: April 2, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders. Calculation order.
 
-**Thoughts**: 
+**Thoughts**: With Python and HTML.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/818739849beea12e454e87a0c6ff566e
 
 
 

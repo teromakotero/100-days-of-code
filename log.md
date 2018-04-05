@@ -794,11 +794,11 @@
 
 ### Day 85: April 5, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders.
 
-**Thoughts**: 
+**Thoughts**: With Python and HTML.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/7199acfde1a22a1e33630f772db4e91a
 
 
 

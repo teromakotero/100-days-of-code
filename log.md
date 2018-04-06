@@ -804,11 +804,11 @@
 
 ### Day 86: April 6, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders: multiplication.
 
-**Thoughts**: 
+**Thoughts**: With Python and HTML.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/9298b879d50551535049420a9b6a8ee6
 
 
 ### Day 87: April 7, 2018

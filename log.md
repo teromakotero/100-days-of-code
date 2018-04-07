@@ -813,11 +813,11 @@
 
 ### Day 87: April 7, 2018
 
-**Today's Progress**: 
+**Today's Progress**: More math exercises for third graders: multiplication with levels.
 
-**Thoughts**: 
+**Thoughts**: With Python and HTML
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/7cdb6cc7e900657c020bf03b41cc73e1
 
 
 ### Day 88: April 8, 2018

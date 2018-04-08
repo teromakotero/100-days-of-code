@@ -822,11 +822,11 @@
 
 ### Day 88: April 8, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math for third graders: division.
 
-**Thoughts**: 
+**Thoughts**: Python dictionary helps a lot with images.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/b7cb2c34c206093d84cf8a875dc35d75
 
 
 ### Day 89: April 9, 2018

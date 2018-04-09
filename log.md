@@ -831,11 +831,11 @@
 
 ### Day 89: April 9, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math for third graders: division variations.
 
-**Thoughts**: 
+**Thoughts**: Python, Python and Python.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/d198c27c8b5cc44db7d5d6a3df2d8eb4
 
 
 ### Day 90: April 10, 2018

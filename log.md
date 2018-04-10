@@ -840,11 +840,11 @@
 
 ### Day 90: April 10, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math for third graders: more division variations.
 
-**Thoughts**: 
+**Thoughts**: It's so easy to make variations with Python.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/21c3f83f919e90b4d74b3877c26f15fd
 
 
 ### Day 91: April 11, 2018

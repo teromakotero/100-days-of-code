@@ -849,11 +849,11 @@
 
 ### Day 91: April 11, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for third graders: calculation order.
 
-**Thoughts**: 
+**Thoughts**: Python makes things easy.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/3bea889e1bf6c0e5e0786087687f117f
 
 
 ### Day 92: April 12, 2018

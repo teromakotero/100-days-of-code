@@ -858,11 +858,11 @@
 
 ### Day 92: April 12, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for third graders: division variations.
 
-**Thoughts**: 
+**Thoughts**: Fast and effective: Python.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/ef488e95851dc79a53f26ee4b1093877
 
 
 

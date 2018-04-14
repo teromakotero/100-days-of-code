@@ -868,11 +868,11 @@
 
 ### Day 93: April 13, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for third graders: more division variations.
 
-**Thoughts**: 
+**Thoughts**: Coding teacher is effective.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/e57b01f4aef25abb4c70047ca462251e
 
 
 ### Day 94: April 14, 2018

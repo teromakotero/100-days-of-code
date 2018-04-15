@@ -886,11 +886,11 @@
 
 ### Day 95: April 15, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for third graders: divider 2-9.
 
-**Thoughts**: 
+**Thoughts**: More variations with limits.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/af73524f942b6bf834df9d74d04c0076
 
 
 ### Day 96: April 16, 2018

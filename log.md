@@ -877,11 +877,11 @@
 
 ### Day 94: April 14, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for third graders: divider 6-9.
 
-**Thoughts**: 
+**Thoughts**: Python makes almost the computer to think like a human being.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/b5c97ee3ea643c56f0e86504af12f879
 
 
 ### Day 95: April 15, 2018

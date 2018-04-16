@@ -895,11 +895,11 @@
 
 ### Day 96: April 16, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for first graders: starting addition.
 
-**Thoughts**: 
+**Thoughts**: HTML made with Python.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/30157aa98f71179d91a6f0a2da173ba6
 
 
 ### Day 97: April 17, 2018

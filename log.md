@@ -904,11 +904,11 @@
 
 ### Day 97: April 17, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for first graders: addition exercises.
 
-**Thoughts**: 
+**Thoughts**: It's so easy with algorithms.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/cc8d748727b298e80a13f847982012fe
 
 
 ### Day 98: April 18, 2018

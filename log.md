@@ -913,11 +913,11 @@
 
 ### Day 98: April 18, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for first graders: addition exercises, change of order.
 
-**Thoughts**: 
+**Thoughts**: Still going strong.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/7690720b9153801d14b13859907623c3
 
 
 ### Day 99: April 19, 2018

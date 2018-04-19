@@ -922,11 +922,11 @@
 
 ### Day 99: April 19, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for first graders: number sequence.
 
-**Thoughts**: 
+**Thoughts**: One day to go.
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/3483970a75c8257614a2f757f8f5e969
 
 
 ### Day 100: April 20, 2018

@@ -931,9 +931,9 @@
 
 ### Day 100: April 20, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Math exercises for first graders: decomposition..
 
-**Thoughts**: 
+**Thoughts**: 100 days complete!
 
-**Link to work**:
+**Link to work**: https://gist.github.com/teromakotero/0b842211181a3197913f3f7a226d50a3
 
